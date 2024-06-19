@@ -13,7 +13,8 @@
 ### projects
 - <a href="https://samochu.com/patrick">Patrick website.</a> <br>
 - <a href="https://samochu.com/GithubApi.php">Github username Search</a> <br>
-- <a href="https://samochu.com">Sam ochu website</a>
+- <a href="https://samochu.com">Sam ochu website</a> <br>
+- <a href="https://samochu.com/social.php">Social media card</a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
