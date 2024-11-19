@@ -5,11 +5,12 @@
 </h2>
 
 ### 👨‍💻: About Me :
-- I'm SAM OCHU
+- I'm SIMON Also know as SAM OCHU.
 - I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania. <br>
 - I'm current learning Php JavaScript and Python.
 - I'm looking for collaboration to improve more experience.
-- Contact me <a href="https://wa.me/255699722149">Whatsapp</a>
+- Contact me <a href="https://wa.me/255780771116">Whatsapp</a>
+- [ hire me ](https://wa.me/255780771116) for backend development.
 ---
 
 <!--### projects
