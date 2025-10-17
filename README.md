@@ -29,5 +29,7 @@
 ### 📊 GitHub Stats 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSpeedX&layout=compact&theme=tokyonight" />
 
+<img src="https://github-readme-stats-flax-five-56.vercel.app/api?username=SamSpeedX&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60"/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=SamSpeedx&label=Profile%20views)](https://github.com/SamSpeedx)
 
