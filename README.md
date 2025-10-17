@@ -26,6 +26,5 @@
 
 ---
 
-### 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamSpeedx&layout=compact&theme=vision-friendly-light)](https://github.com/SamSpeedx)  
+### 📊 GitHub Stats 
 [![Profile Views](https://komarev.com/ghpvc/?username=SamSpeedx&label=Profile%20views)](https://github.com/SamSpeedx)
