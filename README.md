@@ -4,7 +4,7 @@
 </h2>
 
 ### 👨‍💻 About Me
-- I'm **SAM OCHU**, a passionate Fullstack Developer from **Tanzania**. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- I'm **SAM OCHU**, a passionate Full-stack Developer from **Tanzania**. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Currently mastering **React.js** & **Laravel** to build scalable, high-performance applications.
 - Focused on creating software solutions that simplify work and make life easier.
 - Open to **collaborations** and challenging projects to grow my expertise.
