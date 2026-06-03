@@ -8,7 +8,7 @@
 - Currently mastering **React.js** & **Laravel** to build scalable, high-performance applications.
 - Focused on creating software solutions that simplify work and make life easier.
 - Open to **collaborations** and challenging projects to grow my expertise.
-- Reach out to me on [**Whatsapp**](https://wa.me/255780771116) or hire me for backend development.
+- Reach out to me on [**Whatsapp**](https://wa.me/255778760701) or [https://simonsoftware.xyz](https://simonsoftware.xyz/contact) hire me for backend development.
 
 ---
 
