@@ -44,6 +44,23 @@
   </a>
 
 </p>
+
+<p align="center" style="margin-top:16px;">
+
+  <!-- Row 2: Streak Stats + Top Languages -->
+  <a href="https://github.com/SamSpeedX" target="_blank" style="margin-right:16px;">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SamSpeedX's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=SamSpeedX&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+  </a>
+
+  <a href="https://github.com/SamSpeedX" target="_blank">
+    <img 
+      alt="SamSpeedX's Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SamSpeedX&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="162px"
+    />
+  </a>
+
+</p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamSpeedX&layout=compact&theme=tokyonight" /> -->
 
 <!-- <img src="https://github-readme-stats-flax-five-56.vercel.app/api?username=SamSpeedX&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=60"/> -->
