@@ -35,7 +35,7 @@
 <p align="center">
 
   <!-- Row 1: Main Stats + Alternate Stats -->
-  <a href="https://github.com/Maher-Elmair" target="_blank" style="margin-right:16px;">
+  <a href="https://github.com/SamSpeedX" target="_blank" style="margin-right:16px;">
     <img src="https://gh-readme-profile.vercel.app/api?username=SamSpeedX&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="SamSpeedX's GitHub stats" height="142px"/>
   </a>
 
